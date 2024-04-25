@@ -1,0 +1,140 @@
+/* h1{
+    color: cyan;
+}
+
+h2{
+   color: firebrick; 
+}
+
+p{
+    color: burlywood;
+} */
+
+/*.Bunny{
+    color: aqua;
+}
+
+.Diggy{
+    color: blueviolet;
+}
+
+.Anny{
+    color: brown;
+}
+
+.A{
+    color: aquamarine;
+}
+
+.B{
+    color: chocolate;
+}
+
+.C{
+    color: coral;
+}
+
+.D{
+    color: beige;
+}
+
+.E{
+    color: darkblue;
+}
+
+.F{
+    color: darkgrey;
+}
+
+.G{
+    color: darkorange;
+}
+
+.H{
+    color: deeppink;
+}
+
+.I{
+    color: deepskyblue;
+}
+
+.J{
+    color: cornsilk;
+}
+
+.K{
+    color: greenyellow;
+} */
+
+    .A{
+        background-color: brown;
+        width: 430px;
+        height: 300px;
+    }
+
+    .B{
+        position: absolute;
+        top: 15%;
+        left: 1%;
+    }
+
+    .C{
+        background-color: aqua;
+        width: 430px;
+        height: 300px;
+    }
+
+    .D{
+        position: absolute;
+        top: 60%;
+        left: 4%;
+    }
+
+    .E{
+        background-color: cadetblue;
+        width: 430px;
+        height: 300px;
+    }
+
+    .F{
+        position: absolute;
+        top: 105%;
+        left: 6%;
+    }
+
+    .G{
+        background-color: blueviolet;
+        width: 430px;
+        height: 300px;
+    }
+
+    .H{
+        position: absolute;
+        top: 150%;
+        left: 8%;
+    }
+
+    .I{
+        background-color: blue;
+        height: 300px;
+        width: 430px;
+    }
+
+    .J{
+        position: absolute;
+        top: 190%;
+        left: 9%;
+    }
+
+    .K{
+        background-color: chartreuse;
+        width: 430px;
+        height: 300px;
+    }
+
+    .L{
+        position: absolute;
+        top: 235%;
+        left: 9%;
+    }
+

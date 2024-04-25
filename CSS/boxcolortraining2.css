@@ -1,0 +1,131 @@
+.A{
+    background-color: darkgray;
+    height: 150px;
+    width: 120px;
+}
+
+.B{
+    position: absolute;
+    top: 1%;
+    left: 2%;
+}
+
+.C{
+    background-color: yellow;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 8.3%;
+    top: 21.5%;    
+}
+
+.D{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.E{
+    background-color: beige;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 16%;
+    top: 42%;
+}
+
+.F{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.G{
+    background-color: red;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 23.8%;
+    top: 21.4%;
+}
+
+.H{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.I{
+    background-color: green;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 31.6%;
+    top: 1%;
+}
+
+.J{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.K{
+    background-color: blue;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 39.4%;
+    top: 21%;
+}
+
+.L{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.M{
+    background-color: skyblue;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 47.2%;
+    top: 41.1%;
+}
+
+.N{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.O{
+    background-color: greenyellow;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 55%;
+    top: 20.9%;
+}
+
+.P{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
+
+.Q{
+    background-color: purple;
+    position: absolute;
+    height: 150px;
+    width: 120px;
+    left: 62.7%;
+    top: 41.1%;
+}
+
+.R{
+    position: absolute;
+    top: 1%;
+    left: 18%;
+}
